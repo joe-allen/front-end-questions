@@ -63,7 +63,7 @@ I do not have a preferential HTML templating language as the only one I have exp
 
 As far as CSS goes, I tend to use SCSS where possible or CSS custom properties/variables if the project does not need IE support. I do have experience in a few frameworks/libraries like Bootstrap, Foundation, Bulma, Vuetify, but most often I rely on flexbox or grid these days.
 
-For Javascript I leverage babel if writing vanilla JS or VueJS if it's a larger project. The last several months I've done a lot of stuff in React and Gatsby ([portfolio site](https://joeallen.dev)), but I would say I have more experience with Vue at the moment.
+For Javascript I leverage babel if writing vanilla JS or VueJS if it's a larger project. The last several months I've done a lot of stuff in React and Gatsby ([portfolio site](https://joeisacommonname.com/?utm_source=wholefoods)), but I would say I have more experience with Vue at the moment.
 
 To answer the question:
 
